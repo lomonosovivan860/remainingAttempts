@@ -1,0 +1,4 @@
+ } else {
+                let remainingAttempts = attempts - attempt
+                if remainingAttempts > 0 {
+                    print("Incorrect. You have \(remainingAttempts) attempts left.")
